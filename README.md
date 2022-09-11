@@ -1,7 +1,7 @@
 ### Hi there, I'm Tyler or Phragout 👋
 
 
-### I currently work in a Toyota :factory:, Happily married :princess:, with 2 :dog: and a :cat:.
+### I currently work in a Toyota :factory:, Happily married :princess:, with two :dog: and a :cat:.
 
 - 🔭 I’m currently working on [ProlificRP](https://discord.gg/prolific) as a script developer.
 - 🌱 I’m currently learning CS50x from Havard to learn more about Computer Science.
