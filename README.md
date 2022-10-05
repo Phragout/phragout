@@ -1,7 +1,7 @@
 ### Hi there, I'm Tyler or Phragout 👋
 
 
--  Currently working on [ProlificRP](https://discord.gg/prolific) as a script developer.
+-  Currently working on my own FiveM tings. Expect some content. :)
 -  Currently learning CS50x from Havard to learn more about Computer Science.
 
 
