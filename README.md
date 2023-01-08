@@ -1,8 +1,8 @@
 ### Hi there, I'm Tyler or Phragout 👋
 
 
--  Currently working on my own FiveM tings. Expect some content. :)
--  Currently learning CS50x from Havard to learn more about Computer Science.
+-  Currently working with OuttaPocketRP aswell as working on personal projects. Expect some content. :)
+-  Currently taking CS50x to learn more about Computer Science.
 
 
 ### How to reach me:
