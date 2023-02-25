@@ -1,8 +1,7 @@
 ### Hi there, I'm Tyler or Phragout 👋
 
 
--  Owner of Vaulted Roleplay :)
--  Currently taking CS50x to learn more about Computer Science.
+-  Owner of Vaulted Roleplay
 
 
 ### How to reach me:
