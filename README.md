@@ -2,8 +2,8 @@
 
 
 -  Owner of VaultedRP
-https://vaultedrp.com
-https://discord.gg/VaultedRP
+-  https://vaultedrp.com
+-  https://discord.gg/VaultedRP
 
 
 ### How to reach me:
