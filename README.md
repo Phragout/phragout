@@ -1,7 +1,9 @@
 ### Hi there, I'm Tyler or Phragout 👋
 
 
--  Owner of Vaulted Roleplay
+-  Owner of VaultedRP
+https://vaultedrp.com
+https://discord.gg/VaultedRP
 
 
 ### How to reach me:
